@@ -16,6 +16,8 @@ import {
   Alert,
   AlertIcon,
   Image,
+  UnorderedList,
+  ListItem,
 } from "@chakra-ui/react";
 
 function HomepageHeader() {
